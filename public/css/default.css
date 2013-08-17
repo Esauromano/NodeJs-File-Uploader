@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.form {
+    margin: 0px auto;
+    width: 260px;
+}
